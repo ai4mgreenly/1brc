@@ -4,6 +4,13 @@ Inspired by the [One Billion Row Challenge](https://github.com/gunnarmorling/1br
 
 This repository is for learning purposes only - not intended for submission or sharing.
 
+## Leaderboard
+
+| Rank | Model | Thinking | Best Time | Notes |
+|------|-------|----------|-----------|-------|
+| 🥇 1 | Claude Opus 4.5 | Off | **2.854s** | 48 threads, warm cache |
+| 🥈 2 | Claude Sonnet 4.5 | Off | 37.5s | Single-threaded |
+
 ## The Meta Prompt
 
 Create a sub-agent using the model and thinking mode specified in the ./README.md file and let it complete the challenge without providing it any additional context. Take note of it's start and end times and provide an elapsed runtime when it's done.
