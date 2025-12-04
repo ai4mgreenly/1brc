@@ -15,6 +15,12 @@ This repository is for learning purposes only - not intended for submission or s
 
 Create a sub-agent using the model and thinking mode specified in the ./README.md file and let it complete the challenge without providing it any additional context. Take note of it's start and end times and provide an elapsed runtime when it's done.
 
+# Model Instructions
+
+- **Model**: [VARIES]
+- **Thinking**: [VARIES]
+
+Your goal is to create the fastest possible non-portable "C" implementation using only gcc and standard libraries that will satisfy the following challenge.  When you've completed the challenge update the "## Results" section below with your benchmark timings and a brief description of your strategy.
 
 ## The Challenge
 
